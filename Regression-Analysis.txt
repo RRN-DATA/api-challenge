@@ -1,0 +1,13 @@
+ANALYSIS FROM LINEAR REGRESSION PLOTS
+1. In the Northern Hemisphere, Maximum temperature in the cities is increasing as we go near to the Equator
+2. In the Southern Hemisphere, the temperatures do not show a sharp trend like in northern hemisphere, a trend of increase in temperatures as we go near to the equator is observed
+
+3. In the northern hemisphere, Humidity in the cities increases as we go away from the equator
+4. In contrast, humidity in the Southern cities increases as we go near equator and almost remain constant in cities located at -30S 
+
+5. Cloudiness increases drastically in the cities located between 30-50 degrees North
+6. Cloudiness increases drastically in the cities located between -15 to -25 degrees South
+
+7. Wind Speed increases drastically in the cities located between 35-55 degrees North
+8. Wind Speed increases drastically as we go toward the South pole
+    
